@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #41daf6;
+}
+canvas {
+  display: block;
+}
+
+.judul {
+  box-shadow: -5px 10px 5px rgba(255.0.0. .5);
+  border-radius: 0 30px 0 30px;
+  line-height: normal;
+  text-align: center;
+  background-color: blue;
+  text-shadow: 5px 5px 5px red;
+  position: relative;
+  font-size: 40px;
+  font-family: Sans-Serif;
+  
+}
